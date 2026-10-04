@@ -218,5 +218,15 @@
     "targetExpenseId": "-",
     "summary": "User logged in: @harsh",
     "details": "Success"
+  },
+  {
+    "logId": "LOG-1023",
+    "timestamp": "2026-10-04 17:25:22",
+    "eventType": "USER_LOGIN",
+    "actorUsername": "alice",
+    "targetGroupId": "-",
+    "targetExpenseId": "-",
+    "summary": "User logged in: @alice",
+    "details": "Success"
   }
 ]
