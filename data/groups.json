@@ -1,0 +1,35 @@
+[
+  {
+    "groupId": "GRP-101",
+    "name": "Goa Vacation 2026",
+    "description": "Beach house trip and water sports",
+    "creatorUsername": "alice",
+    "createdAt": "2026-09-14T17:16:38.7686066",
+    "memberUsernames": [
+      "alice",
+      "bob",
+      "charlie"
+    ]
+  },
+  {
+    "groupId": "GRP-102",
+    "name": "goa",
+    "description": "trip",
+    "creatorUsername": "keer",
+    "createdAt": "2026-09-14T17:22:51.8201902",
+    "memberUsernames": [
+      "keer"
+    ]
+  },
+  {
+    "groupId": "GRP-103",
+    "name": "goa trip",
+    "description": "frnds trip",
+    "creatorUsername": "keer1",
+    "createdAt": "2026-10-04T13:05:23.0387664",
+    "memberUsernames": [
+      "keer1",
+      "harsh"
+    ]
+  }
+]

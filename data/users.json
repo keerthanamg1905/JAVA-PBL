@@ -1,0 +1,62 @@
+[
+  {
+    "username": "alice",
+    "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "fullName": "Alice Sharma",
+    "email": "alice@example.com",
+    "createdAt": "2026-09-14T17:16:38.7491893",
+    "joinedGroupIds": [
+      "GRP-101"
+    ]
+  },
+  {
+    "username": "bob",
+    "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "fullName": "Bob Verma",
+    "email": "bob@example.com",
+    "createdAt": "2026-09-14T17:16:38.7633746",
+    "joinedGroupIds": [
+      "GRP-101"
+    ]
+  },
+  {
+    "username": "charlie",
+    "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "fullName": "Charlie Singh",
+    "email": "charlie@example.com",
+    "createdAt": "2026-09-14T17:16:38.7657924",
+    "joinedGroupIds": [
+      "GRP-101"
+    ]
+  },
+  {
+    "username": "keer",
+    "passwordHash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+    "fullName": "keerthana",
+    "email": "keerthana.mg131280@gmail.com",
+    "createdAt": "2026-09-14T17:22:09.0702071",
+    "joinedGroupIds": [
+      "GRP-102"
+    ]
+  },
+  {
+    "username": "keer1",
+    "passwordHash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+    "fullName": "keerthana",
+    "email": "keerthana@gmail.com",
+    "createdAt": "2026-10-04T13:04:56.5080116",
+    "joinedGroupIds": [
+      "GRP-103"
+    ]
+  },
+  {
+    "username": "harsh",
+    "passwordHash": "38083c7ee9121e17401883566a148aa5c2e2d55dc53bc4a94a026517dbff3c6b",
+    "fullName": "harshitha",
+    "email": "harsh@gmail.com",
+    "createdAt": "2026-10-04T13:05:53.8673235",
+    "joinedGroupIds": [
+      "GRP-103"
+    ]
+  }
+]

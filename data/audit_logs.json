@@ -1,0 +1,222 @@
+[
+  {
+    "logId": "LOG-1001",
+    "timestamp": "2026-09-14 17:16:38",
+    "eventType": "USER_REGISTER",
+    "actorUsername": "alice",
+    "targetGroupId": "-",
+    "targetExpenseId": "-",
+    "summary": "User registered: @alice",
+    "details": "Full Name: Alice Sharma"
+  },
+  {
+    "logId": "LOG-1002",
+    "timestamp": "2026-09-14 17:16:38",
+    "eventType": "USER_REGISTER",
+    "actorUsername": "bob",
+    "targetGroupId": "-",
+    "targetExpenseId": "-",
+    "summary": "User registered: @bob",
+    "details": "Full Name: Bob Verma"
+  },
+  {
+    "logId": "LOG-1003",
+    "timestamp": "2026-09-14 17:16:38",
+    "eventType": "USER_REGISTER",
+    "actorUsername": "charlie",
+    "targetGroupId": "-",
+    "targetExpenseId": "-",
+    "summary": "User registered: @charlie",
+    "details": "Full Name: Charlie Singh"
+  },
+  {
+    "logId": "LOG-1004",
+    "timestamp": "2026-09-14 17:16:38",
+    "eventType": "GROUP_CREATE",
+    "actorUsername": "alice",
+    "targetGroupId": "GRP-101",
+    "targetExpenseId": "-",
+    "summary": "Group created: Goa Vacation 2026 [GRP-101]",
+    "details": "Description: Beach house trip and water sports"
+  },
+  {
+    "logId": "LOG-1005",
+    "timestamp": "2026-09-14 17:16:38",
+    "eventType": "GROUP_JOIN",
+    "actorUsername": "bob",
+    "targetGroupId": "GRP-101",
+    "targetExpenseId": "-",
+    "summary": "User @bob joined group: Goa Vacation 2026",
+    "details": "Group ID: GRP-101"
+  },
+  {
+    "logId": "LOG-1006",
+    "timestamp": "2026-09-14 17:16:38",
+    "eventType": "GROUP_JOIN",
+    "actorUsername": "charlie",
+    "targetGroupId": "GRP-101",
+    "targetExpenseId": "-",
+    "summary": "User @charlie joined group: Goa Vacation 2026",
+    "details": "Group ID: GRP-101"
+  },
+  {
+    "logId": "LOG-1007",
+    "timestamp": "2026-09-14 17:16:38",
+    "eventType": "EXPENSE_ADD",
+    "actorUsername": "alice",
+    "targetGroupId": "GRP-101",
+    "targetExpenseId": "EXP-101",
+    "summary": "Added expense: Seafood Dinner at Beachside",
+    "details": "Amount: ₹1200.00 | Payer: @alice | Category: FOOD | Split among: alice, bob, charlie"
+  },
+  {
+    "logId": "LOG-1008",
+    "timestamp": "2026-09-14 17:16:38",
+    "eventType": "EXPENSE_ADD",
+    "actorUsername": "bob",
+    "targetGroupId": "GRP-101",
+    "targetExpenseId": "EXP-102",
+    "summary": "Added expense: Rental Scooters & Fuel",
+    "details": "Amount: ₹600.00 | Payer: @bob | Category: TRAVEL | Split among: alice, bob, charlie"
+  },
+  {
+    "logId": "LOG-1009",
+    "timestamp": "2026-09-14 17:16:38",
+    "eventType": "EXPENSE_ADD",
+    "actorUsername": "charlie",
+    "targetGroupId": "GRP-101",
+    "targetExpenseId": "EXP-103",
+    "summary": "Added expense: Fort Aguada Museum Entry Tickets",
+    "details": "Amount: ₹300.00 | Payer: @charlie | Category: ENTERTAINMENT | Split among: alice, bob, charlie"
+  },
+  {
+    "logId": "LOG-1010",
+    "timestamp": "2026-09-14 17:16:39",
+    "eventType": "USER_LOGIN",
+    "actorUsername": "alice",
+    "targetGroupId": "-",
+    "targetExpenseId": "-",
+    "summary": "User logged in: @alice",
+    "details": "Success"
+  },
+  {
+    "logId": "LOG-1011",
+    "timestamp": "2026-09-14 17:20:46",
+    "eventType": "USER_LOGIN",
+    "actorUsername": "alice",
+    "targetGroupId": "-",
+    "targetExpenseId": "-",
+    "summary": "User logged in: @alice",
+    "details": "Success"
+  },
+  {
+    "logId": "LOG-1012",
+    "timestamp": "2026-09-14 17:22:09",
+    "eventType": "USER_REGISTER",
+    "actorUsername": "keer",
+    "targetGroupId": "-",
+    "targetExpenseId": "-",
+    "summary": "User registered: @keer",
+    "details": "Full Name: keerthana"
+  },
+  {
+    "logId": "LOG-1013",
+    "timestamp": "2026-09-14 17:22:51",
+    "eventType": "GROUP_CREATE",
+    "actorUsername": "keer",
+    "targetGroupId": "GRP-102",
+    "targetExpenseId": "-",
+    "summary": "Group created: goa [GRP-102]",
+    "details": "Description: trip"
+  },
+  {
+    "logId": "LOG-1014",
+    "timestamp": "2026-09-14 17:42:27",
+    "eventType": "USER_LOGIN",
+    "actorUsername": "bob",
+    "targetGroupId": "-",
+    "targetExpenseId": "-",
+    "summary": "User logged in: @bob",
+    "details": "Success"
+  },
+  {
+    "logId": "LOG-1015",
+    "timestamp": "2026-10-04 13:04:56",
+    "eventType": "USER_REGISTER",
+    "actorUsername": "keer1",
+    "targetGroupId": "-",
+    "targetExpenseId": "-",
+    "summary": "User registered: @keer1",
+    "details": "Full Name: keerthana"
+  },
+  {
+    "logId": "LOG-1016",
+    "timestamp": "2026-10-04 13:05:23",
+    "eventType": "GROUP_CREATE",
+    "actorUsername": "keer1",
+    "targetGroupId": "GRP-103",
+    "targetExpenseId": "-",
+    "summary": "Group created: goa trip [GRP-103]",
+    "details": "Description: frnds trip"
+  },
+  {
+    "logId": "LOG-1017",
+    "timestamp": "2026-10-04 13:05:53",
+    "eventType": "USER_REGISTER",
+    "actorUsername": "harsh",
+    "targetGroupId": "-",
+    "targetExpenseId": "-",
+    "summary": "User registered: @harsh",
+    "details": "Full Name: harshitha"
+  },
+  {
+    "logId": "LOG-1018",
+    "timestamp": "2026-10-04 13:06:07",
+    "eventType": "GROUP_JOIN",
+    "actorUsername": "harsh",
+    "targetGroupId": "GRP-103",
+    "targetExpenseId": "-",
+    "summary": "User @harsh joined group: goa trip",
+    "details": "Group ID: GRP-103"
+  },
+  {
+    "logId": "LOG-1019",
+    "timestamp": "2026-10-04 13:07:12",
+    "eventType": "USER_LOGIN",
+    "actorUsername": "alice",
+    "targetGroupId": "-",
+    "targetExpenseId": "-",
+    "summary": "User logged in: @alice",
+    "details": "Success"
+  },
+  {
+    "logId": "LOG-1020",
+    "timestamp": "2026-10-04 13:07:37",
+    "eventType": "EXPENSE_EDIT",
+    "actorUsername": "alice",
+    "targetGroupId": "GRP-101",
+    "targetExpenseId": "EXP-101",
+    "summary": "Modified expense: Seafood Dinner at Beachside",
+    "details": "Updated: ₹1300.00, Desc: 'Seafood Dinner at Beachside', Payer: @alice | Previous: [Old: ₹1200.00, Desc: 'Seafood Dinner at Beachside', Payer: @alice]"
+  },
+  {
+    "logId": "LOG-1021",
+    "timestamp": "2026-10-04 13:07:59",
+    "eventType": "AUDIT_VERIFY",
+    "actorUsername": "system",
+    "targetGroupId": "GRP-101",
+    "targetExpenseId": "-",
+    "summary": "Ledger Invariant Audit: PASSED",
+    "details": "Total: ₹2200.00 | Paid: ₹2200.00 | Net Delta: ₹0.0000"
+  },
+  {
+    "logId": "LOG-1022",
+    "timestamp": "2026-10-04 13:08:28",
+    "eventType": "USER_LOGIN",
+    "actorUsername": "harsh",
+    "targetGroupId": "-",
+    "targetExpenseId": "-",
+    "summary": "User logged in: @harsh",
+    "details": "Success"
+  }
+]

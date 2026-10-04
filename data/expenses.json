@@ -1,0 +1,53 @@
+[
+  {
+    "expenseId": "EXP-101",
+    "groupId": "GRP-101",
+    "description": "Seafood Dinner at Beachside",
+    "totalAmount": 1300.0,
+    "payerUsername": "alice",
+    "involvedUsernames": [
+      "alice",
+      "bob",
+      "charlie"
+    ],
+    "date": "2026-09-13",
+    "category": "FOOD",
+    "createdAt": "2026-09-14T17:16:38.8068893",
+    "createdByUsername": "alice",
+    "splitType": "Equal Split"
+  },
+  {
+    "expenseId": "EXP-102",
+    "groupId": "GRP-101",
+    "description": "Rental Scooters & Fuel",
+    "totalAmount": 600.0,
+    "payerUsername": "bob",
+    "involvedUsernames": [
+      "alice",
+      "bob",
+      "charlie"
+    ],
+    "date": "2026-09-14",
+    "category": "TRAVEL",
+    "createdAt": "2026-09-14T17:16:38.8787987",
+    "createdByUsername": "bob",
+    "splitType": "Equal Split"
+  },
+  {
+    "expenseId": "EXP-103",
+    "groupId": "GRP-101",
+    "description": "Fort Aguada Museum Entry Tickets",
+    "totalAmount": 300.0,
+    "payerUsername": "charlie",
+    "involvedUsernames": [
+      "alice",
+      "bob",
+      "charlie"
+    ],
+    "date": "2026-09-14",
+    "category": "ENTERTAINMENT",
+    "createdAt": "2026-09-14T17:16:38.8827988",
+    "createdByUsername": "charlie",
+    "splitType": "Equal Split"
+  }
+]
